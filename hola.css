@@ -181,68 +181,7 @@ p{
 
 }
 
-/*
-@2media only screen and (max-width: 00px){
-
-	.nav__reponsive-button-conteiner{
-		height: 5vw;
-	}
-
-	.conteiner{
-		width: 100%;
-    	border: none;
-    	display: flex;
-    	height: 75vw;
-
-	}
-
-	.date1{
-    	width: 100%;
-    	border: none;
-    	display: block;
-    }
-    .circulo{
-    	height: 67px;
-    	width: 67px;
-
-    	margin-bottom: -10px;
-    	margin-left: 50px; 
-    }
-
-    .leo{
-    	font-size: 3em;
-    	margin-left: 50px;
-    }
-    
-    .programas{
-    	width: 90%;
-    	margin-left: -30px;
-    }
-
-    p{
-    	font-size: 0.9em;
-    }
-
-    .bottom{
-    	font-size: 1em;
-    	padding: 4px;
-    	text-align: center;
-    }
-
-
-   .date2-imagen{
-   	width: 80%;
-   	margin-left: 20px;
-   	margin-top: 192px;
-   }
-
-
-} */
-
-
-
-
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
 	
    .nav__reponsive-button-conteiner{
    	height: 10vw;
@@ -252,6 +191,77 @@ p{
 
 	.conteiner{
 	    width: 100%;
+    	border: none;
+    	display: inline-block;
+    	height: 178vw;
+
+    	
+    	
+
+
+
+	}
+    .date1{
+    	width: 100%;
+    	border: none;
+    	display: block;
+    	height: 100%;
+    	
+    	margin-top: -10px;
+    	
+    }
+
+    .circulo{
+    	height: 47px;
+    	width: 47px;
+
+    	margin-bottom: -10px;
+    	margin-left: 40px;
+    }
+
+
+    .leo{
+    	font-size: 15em;
+    	margin-left: 40px;
+    }
+    
+    .programas{
+    	width: 90%;
+    	margin-left: -40px;
+    }
+
+    p{
+    	font-size: 0.8em;
+    	margin-top: 10px;
+    }
+
+    .bottom{
+    	font-size: 0.8em;
+    	padding: 3px;
+    	text-align: center;
+    }
+
+
+   .date2-imagen{
+   	width: 65%;
+   	margin-left: auto;
+   	margin-top: -19.20em;
+   }
+
+
+} 
+
+
+@media only screen and (max-width: 320px) {
+	
+   .nav__reponsive-button-conteiner{
+   	height: 10vw;
+   }
+
+
+
+	.conteiner{
+	width: 100%;
     	border: none;
     	display: inline-block;
     	height: 175vw;
