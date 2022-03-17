@@ -272,7 +272,7 @@ h2{
 .texth3{
 	letter-spacing: 1px;
 	font-weight: 400;
-	font-size: 1.775rem;
+	font-size: 2.3rem;
 	margin: 10px auto 0 11px;
 	font-family: Raleway, sans-serif !important;
 	color: #f1bb51 ;
@@ -282,6 +282,7 @@ h2{
 
 
 .textp{
+	font-size:1.4em;
 	font-style: italic;
 	font-weight: 300;
 	margin: 10px auto 0 11px;
