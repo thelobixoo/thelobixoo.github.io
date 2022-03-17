@@ -181,8 +181,8 @@ p{
 
 }
 
-
-@media only screen and (max-width: 600px){
+/*
+@2media only screen and (max-width: 00px){
 
 	.nav__reponsive-button-conteiner{
 		height: 5vw;
@@ -237,12 +237,12 @@ p{
    }
 
 
-}
+} */
 
 
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
 	
    .nav__reponsive-button-conteiner{
    	height: 10vw;
