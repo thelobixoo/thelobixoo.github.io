@@ -257,7 +257,7 @@ p{
 }
 
 .nombre{
-	flex: 2;
+	flex: 1;
 	display: flex;
 	flex-direction: column;
 	align-items: baseline;
@@ -269,7 +269,7 @@ p{
 .leo{
 	margin-left: 80px;
 
-    font-size: 5em;
+    font-size: 5.5em;
     line-height: 0.9;
     margin-top: 5px;
     font-family: "Alata",sans-serif;
@@ -279,11 +279,11 @@ p{
 
 
 .programas{
-	flex: 4;
+	flex: 2;
 	display: flex;
-    flex-direction: column;
-    margin-top: -10px;
-    width: 100%;
+        flex-direction: column;
+        margin-top: -10px;
+        width: 100%;
     
 }
 
@@ -292,11 +292,11 @@ p{
     display: flex; 
     flex-direction: column;
     justify-content: flex-start;
-    width: 60%;
-    height: 50%;
+    width: 75%;
+    height: 40%;
     margin-left: 80px;
     margin-top: 2px;
-    font-size: 1.0em;
+    font-size: 1.5em;
     font-family: "PT Sans",sans-serif;
     font-weight: bold;
 }
@@ -309,7 +309,7 @@ p{
     text-decoration: none;
 
    
-    padding: 5px;
+    padding: 7px;
     width: 18%;
     margin: 40px 0px 10px 80px;
     transition: background-color 1s;
