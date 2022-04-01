@@ -356,7 +356,7 @@ p{
 @media only screen and (max-width: 600px) {
 	 
   body {
-		overflow: auto;
+		overflow: hidden;
 	}
 	
    .nav__reponsive-button-conteiner{
@@ -431,7 +431,7 @@ p{
    .date2-imagen{
    	width: 65%;
    	margin-left: auto;
-   	margin-top: -283px;
+   	margin-top: -268px;
    }
 
 
