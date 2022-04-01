@@ -161,7 +161,7 @@ p{
 
 	display: flex;
 	flex-direction: column;
-    flex: 1;
+        flex: 1;
    
 }
 
@@ -248,12 +248,12 @@ p{
 
 .circulo{
 	 flex: 0.9;
-     width: 11%;
-     height: 75px;
-     margin: 20px 0px 1px 80px;
-     color: #ffffff;
-     background-color: #ec564d;
-     border-radius: 50%;
+         width: 11%;
+         height: 75px;
+         margin: 20px 0px 1px 80px;
+         color: #ffffff;
+         background-color: #ec564d;
+         border-radius: 50%;
 }
 
 .nombre{
@@ -356,55 +356,55 @@ p{
 @media only screen and (max-width: 600px) {
 	
    .nav__reponsive-button-conteiner{
-   	height: 10vw;
+   	height: 9vw;
    }
+	
+    .nav__reponsive-button{
+   	font-size: 20px;
+   	margin-right: -20px;
+   }
+   
 
+    .conteiner{
+	      width: 100%;
+    	      border: none;
+    	      display: inline-block;
+    	      height: 150vw;
 
-
-	.conteiner{
-	    width: 100%;
-    	border: none;
-    	display: inline-block;
-    	height: 178vw;
-
-    	
-    	
-
-
-
-	}
+   }
     .date1{
     	width: 100%;
     	border: none;
     	display: block;
     	height: 100%;
     	
-    	margin-top: -10px;
+    	
     	
     }
 
     .circulo{
     	height: 47px;
     	width: 47px;
-
-    	margin-bottom: -10px;
+        margin-bottom: -10px;
     	margin-left: 40px;
     }
 
 
     .leo{
-    	font-size: 15em;
+    	font-size: 12em;
     	margin-left: 40px;
+	margin-top: -15px;
     }
     
     .programas{
     	width: 90%;
     	margin-left: -40px;
+	margin-top: 20px;
     }
 
     p{
-    	font-size: 0.8em;
-    	margin-top: 10px;
+    	font-size: .9em;
+    	
     }
 
     .bottom{
@@ -415,80 +415,15 @@ p{
 
 
    .date2-imagen{
-   	width: 65%;
-   	margin-left: auto;
-   	margin-top: -19.20em;
-   }
-
-
-} 
-
-
-@media only screen and (max-width: 320px) {
-	
-   .nav__reponsive-button-conteiner{
-   	height: 10vw;
-   }
-
-
-
-	.conteiner{
-	width: 100%;
-    	border: none;
-    	display: inline-block;
-    	height: 175vw;
-    	
-    	
-
-
-
-	}
-    .date1{
-    	width: 100%;
-    	border: none;
-    	display: block;
-    	height: 100%;
-    	
-    }
-
-    .circulo{
-    	height: 47px;
-    	width: 47px;
-
-    	margin-bottom: -10px;
-    	margin-left: 50px;
-    }
-
-
-    .leo{
-    	font-size: 2.5em;
-    	margin-left: 50px;
-    }
-    
-    .programas{
-    	width: 90%;
-    	margin-left: -30px;
-    }
-
-    p{
-    	font-size: 0.8em;
-    }
-
-    .bottom{
-    	font-size: 0.8em;
-    	padding: 2px;
-    	text-align: center;
-    }
-
-
-   .date2-imagen{
    	width: 60%;
    	margin-left: auto;
-   	margin-top: -248px;
+   	margin-top: -15.20em;
    }
 
 
 } 
+
+
 
 
 
