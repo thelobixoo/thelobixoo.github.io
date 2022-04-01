@@ -375,7 +375,7 @@ p{
 	    width: 100%;
     	border: none;
     	display: inline-block;
-    	height: 170vw;
+    	height: 180vw;
 
    }
     .date1{
@@ -387,6 +387,10 @@ p{
     	
     	
     }
+	
+	
+    .conteiner-circulo{
+	    margin-top:10px;
 
     .circulo{
     	height: 50px;
@@ -426,7 +430,7 @@ p{
    .date2-imagen{
    	width: 65%;
    	margin-left: auto;
-   	margin-top: -15.87em;
+   	margin-top: -16.70em;
    }
 
 
