@@ -24,21 +24,6 @@ body{
 }
 
 
-.nav__reponsive-button {
-    padding: 10px 30px;
-	width: -95%;
-    transition: background-color 0.8s;
-
-}
-
-
-.nav__reponsive-button:hover{
-	color: #fff;
-	background-color: #111111;
-
-}
-
-
 
 .conteiner{
  display: flex;
@@ -201,24 +186,6 @@ p{
    
    
 }
-
-
-.nav__reponsive-button {
-    padding: 6px 30px;
-	width: -95%;
-    transition: background-color 0.8s;
-
-}
-
-
-.nav__reponsive-button:hover{
-	color: #fff;
-	background-color: #111111;
-
-}
-
-
-
 
 
 
