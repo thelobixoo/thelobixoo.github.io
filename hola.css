@@ -429,9 +429,11 @@ p{
 
 
    .date2-imagen{
+   	display: block;
+   	position: relative;
    	width: 65%;
    	margin-left: auto;
-   	margin-top: -268px;
+   	margin-top: -187px;
    }
 
 
