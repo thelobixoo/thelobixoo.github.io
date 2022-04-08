@@ -372,8 +372,8 @@ p{
 
 
 
-	.conteiner{
-	    width: 106%;
+  .conteiner{
+	width: 100%;
     	border: none;
     	display: inline-block;
     	height: 180vw;
@@ -434,7 +434,7 @@ p{
    	position: relative;
    	width: 65%;
    	margin-left: auto;
-   	margin-top: -187px;
+   	margin-top: -170px;
 
    }
 
