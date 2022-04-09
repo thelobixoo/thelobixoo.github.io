@@ -1,0 +1,1736 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>💻 Personal Computer Emoji</title>
+<link href="/static/css/emojipedia.0a1b040a6e2c.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="apple-touch-icon" sizes="57x57" href="/static/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/static/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/static/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/img/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/static/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/static/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/img/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/static/img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/static/img/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/static/img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/static/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.webapp">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.osd" title="Search Emojipedia">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/static/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="mask-icon" mask href="/static/img/emojipedia.svg" color="black">
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-domain-script="751e4177-1659-409b-8176-45ccd0adeaff"></script>
+<script>function OptanonWrapper(){}</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+      window.googletag = window.googletag || {cmd: []};
+var adSlots = {};
+var anchorSlot;
+var latestStaticSlot;
+
+googletag.cmd.push(function() {
+
+    /* 320x50 bottom page sticky ad mobile only */
+    anchorSlot = googletag.defineOutOfPageSlot(
+        '/21872898416/Emojipedia_Banner_bottom', googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR);
+    if (anchorSlot) {
+      anchorSlot
+        .addService(googletag.pubads());
+      //console.log('anchor slot available');
+    } else {
+      //console.log('anchor slot NOT available');
+    }
+
+    [
+    /* 728x90 top centre page */
+    ['/21872898416/emojipedia_Leaderboard_topcentre', [728, 90], 'div-gpt-ad-1636981552480-0'],
+
+    /* 300x250 top right side */
+    ['/21872898416/Emojipedia_MREC_topright', [300, 250], 'div-gpt-ad-1636982387411-0'],
+
+    /* 300x250 bottom page */
+    ['/21872898416/Emojipedia_MREC_bottom', [300, 250], 'div-gpt-ad-1643625933316-0'],
+
+    /* 300x250 middle page of */
+    ['/21872898416/Emojipedia_MREC_Snapchatpage', [300, 250], 'div-gpt-ad-1636983550115-0'],
+
+    /* 300x250 middle page of */
+    ['/21872898416/Emojipedia_MREC_Tiktokpage', [300, 250], 'div-gpt-ad-1636983841345-0'],
+
+    /* 300x250 lower middle page of */
+    ['/21872898416/Emojipedia_MREC_lowermiddle_Snapchatpage', [300, 250], 'div-gpt-ad-1636987228784-0'],
+
+    /* 300x250 lower middle page of */
+    ['/21872898416/Emojipedia_MREC_lowermiddle_Tiktokpage', [300, 250], 'div-gpt-ad-1636987419956-0'],
+
+    /* 320x50 bottom page sticky ad mobile only */
+    //['/21872898416/Emojipedia_Banner_bottom', [320, 50], 'div-gpt-ad-1643121550905-0'],
+
+    /* 300x250 lower right side */
+    ['/21872898416/Emojipedia_MREC_lowerright', [300, 250], 'div-gpt-ad-1636988838539-0'],
+
+    /* 300x600 bottom right side */
+    ['/21872898416/Emojipedia_HalfPageAd_bottomright', [300, 600], 'div-gpt-ad-1636989131974-0'],
+
+    /* 728x90 */
+    ['/21872898416/blog.emojipedia_Leaderboard_global', [728, 90], 'div-gpt-ad-1636980734861-0'],
+
+    /* 300x250 mobile only square header */
+    ['/21872898416/Emojipedia_MobWeb_header', [300, 250], 'div-gpt-ad-1642621412512-0'],
+
+    /* 300x250 ad-above-image */
+    ['/21872898416/Emojipedia_MobWeb_above_images', [300, 250], 'div-gpt-ad-1642621434939-0'],
+    ].forEach(function(slot) {
+      if (adSlots.hasOwnProperty(slot[2])) {
+        adSlots[slot[2]] = latestStaticSlot = googletag.defineSlot(slot[0], slot[1], slot[2]).addService(googletag.pubads());
+      } else {
+        //console.log('slot missing: %s', slot[2]);
+      }
+    });
+
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+});
+    </script>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@emojipedia">
+<meta name="twitter:title" content="💻 Personal Computer Emoji">
+<meta name="twitter:description" content="Emoji Meaning A laptop personal computer. Depicted as a black or gray device, opened to show a dark or blue screen, keyboard, and touchpad. Commonly used for various content concerning…">
+<meta name="twitter:image" content="https://emojipedia-us.s3.amazonaws.com/social/emoji/laptop.png">
+<meta property="og:site_name" content="Emojipedia">
+<meta property="og:url" content="/laptop/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="💻 Personal Computer Emoji">
+<meta property="og:description" content="Emoji Meaning A laptop personal computer. Depicted as a black or gray device, opened to show a dark or blue screen, keyboard, and touchpad. Commonly used for various content concerning…">
+<meta property="og:image" content="https://emojipedia-us.s3.amazonaws.com/social/emoji/laptop.png">
+<script>
+window.lazySizesConfig={loadMode:0};
+window.emojiData = {
+  code: '💻',
+  name: 'Laptop',
+};
+    </script>
+
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2768678,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</head>
+<body>
+<header class="page-header">
+<div class="container">
+<a href="/" class="logo" title="Go to Emojipedia Home">Emojipedia</a>
+<form method="get" action="/search/" class="search-form">
+<label>
+<span class="sr-only">Search Emojipedia:</span>
+<input type="search" name="q" placeholder="Search Emojipedia" id="id_q"><button class="search-form__button" aria-label="search">&#x1F50D;</button>
+</label>
+</form>
+<a href="#nav-categories" id="nav-categories-toggle">Categories</a>
+<nav class="categories">
+<ul id="nav-categories">
+<li><a href="/people/"><span class="emoji">😃</span> Smileys & People</a></li>
+<li><a href="/nature/"><span class="emoji">🐻</span> Animals & Nature</a></li>
+<li><a href="/food-drink/"><span class="emoji">🍔</span> Food & Drink</a></li>
+<li><a href="/activity/"><span class="emoji">⚽</span> Activity</a></li>
+<li><a href="/travel-places/"><span class="emoji">🌇</span> Travel & Places</a></li>
+<li><a href="/objects/"><span class="emoji">💡</span> Objects</a></li>
+<li><a href="/symbols/"><span class="emoji">🔣</span> Symbols</a></li>
+<li><a href="/flags/"><span class="emoji">🎌</span> Flags</a></li>
+</ul>
+</nav>
+</div>
+</header>
+<div class="ad-header">
+<script>
+  if (document.body.clientWidth >= 728) {
+    /* /21872898416/emojipedia_Leaderboard_topcentre */
+    document.write("<div id='div-gpt-ad-1636981552480-0' style='min-width: 728px; min-height: 90px;'></div>");
+    adSlots['div-gpt-ad-1636981552480-0'] = null;
+  } else {
+    /* /21872898416/Emojipedia_MobWeb_header */
+    //document.write("<div id='div-gpt-ad-1642621412512-0' style='min-width: 300px; min-height: 250px;'></div>");
+    //adSlots['div-gpt-ad-1642621412512-0'] = null;
+    //disabled for now. remove next line, when enabling
+    document.querySelector('.ad-header').style.minHeight = 'auto';
+  }
+</script>
+</div>
+<div class="container">
+<div class="content">
+<article>
+<h1><span class="emoji">💻</span> Laptop</h1>
+<section class="description">
+<h2>Emoji Meaning</h2>
+<p>A laptop personal computer. Depicted as a black or gray device, opened to show a dark or blue screen, keyboard, and touchpad.</p>
+<p>Commonly used for various content concerning computer technology, work, and activity.</p>
+<p>Previous designs resembled a <a href="/desktop-computer/">desktop computer</a>&nbsp;(e.g., <a href="/apple/ios-9.0/personal-computer/">iMac</a>) on many platforms, hence its Unicode name of&nbsp;<em>Personal Computer</em>. Apple&rsquo;s design now resembles a MacBook.</p>
+<p>
+<em>Laptop</em> was approved as part of <a href="/unicode-6.0/">Unicode 6.0</a> in 2010
+under the name “Personal Computer”
+and added to <a href="/emoji-1.0/">Emoji 1.0</a> in 2015.
+</p>
+<h2>Copy and Paste</h2>
+<form class="stacked no-top copy-paste">
+<label>
+<span class="copy-paste__label">Copy and paste this emoji:</span>
+<input type="text" value="💻" readonly class="emoji-copy copy-paste__data" id="emoji-copy">
+<button type="button" class="btn-clipboard copy-paste__btn" data-clipboard-target="#emoji-copy" style="width:auto;display:inline-block">Copy</button>
+</label>
+</form>
+</section>
+<section class="aliases">
+<h2>Also Known As</h2>
+<ul>
+<li><span class="emoji">💻</span> Laptop</li>
+<li><span class="emoji">💻</span> Notebook</li>
+</ul>
+</section>
+<section class="applenames">
+<h2>Apple Name</h2>
+<p><span class="emoji">💻</span> Laptop</p>
+</section>
+<section class="unicodename">
+<h2>Unicode Name</h2>
+<p><span class="emoji">💻</span> Personal Computer</p>
+</section>
+<div class="ad ad-above-images">
+<center>
+
+<div id='div-gpt-ad-1642621434939-0' style='min-width: 300px; min-height: 250px;'>
+<script>
+    adSlots['div-gpt-ad-1642621434939-0'] = null;
+  </script>
+</div></center>
+</div>
+<section class="vendor-list">
+<ul>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/apple/">Apple</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/laptop_1f4bb.png 2x" alt="Laptop on Apple iOS 15.4" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/ios-15.4/">iOS 15.4</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/ios-15.4/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/325/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/laptop_1f4bb.png 2x" alt="Laptop on Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/ios-10.2/">iOS 10.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/ios-10.2/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/81/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/81/personal-computer_1f4bb.png 2x" alt="Laptop on Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/ios-9.1/">iOS 9.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/ios-9.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/33/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/33/personal-computer_1f4bb.png 2x" alt="Laptop on Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/ios-8.3/">iOS 8.3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/ios-8.3/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/51/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/51/personal-computer_1f4bb.png 2x" alt="Laptop on Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/ios-6.0/">iOS 6.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/ios-6.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/21/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/21/personal-computer_1f4bb.png 2x" alt="Laptop on Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/ios-5.1/">iOS 5.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/ios-5.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/126/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/126/personal-computer_1f4bb.png 2x" alt="Laptop on Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/ios-4.0/">iOS 4.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/ios-4.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/125/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/125/personal-computer_1f4bb.png 2x" alt="Laptop on Apple " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/apple/iphone-os-2.2/">iPhone OS 2.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/apple/iphone-os-2.2/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/124/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/124/personal-computer_1f4bb.png 2x" alt="Laptop on Apple " width="32" height="32">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+ </li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/google/">Google</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/313/laptop_1f4bb.png 2x" alt="Laptop on Google Android 12L" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/android-12l/">Android 12L</a></p>
+</div>
+<div class="vendor-image">
+<a href="/google/android-12l/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/313/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/laptop_1f4bb.png 2x" alt="Laptop on Google " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/android-12.0/">Android 12.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/google/android-12.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/298/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/laptop_1f4bb.png 2x" alt="Laptop on Google " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/android-11.0/">Android 11.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/google/android-11.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/263/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/263/laptop_1f4bb.png 2x" alt="Laptop on Google " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/android-8.0/">Android 8.0</a></p>
+</div>
+<div class="vendor-image">
+ <a href="/google/android-8.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/110/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/110/personal-computer_1f4bb.png 2x" alt="Laptop on Google " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/android-7.0/">Android 7.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/google/android-7.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/56/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/56/personal-computer_1f4bb.png 2x" alt="Laptop on Google " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/android-4.4/">Android 4.4</a></p>
+</div>
+<div class="vendor-image">
+<a href="/google/android-4.4/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/6/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/6/personal-computer_1f4bb.png 2x" alt="Laptop on Google " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/android-4.3/">Android 4.3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/google/android-4.3/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/55/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/55/personal-computer_1f4bb.png 2x" alt="Laptop on Google " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/google/gmail/">Gmail</a></p>
+</div>
+<div class="vendor-image">
+<a href="/google/gmail/laptop/">
+ <img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/208/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/208/personal-computer_1f4bb.gif 2x" alt="Laptop on Google " width="45" height="45">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/samsung/">Samsung</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/samsung/320/laptop_1f4bb.png 2x" alt="Laptop on Samsung One UI 4.0 January 2022" width="108" height="108">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/samsung/one-ui-4.0-january-2022/">One UI 4.0 January 2022</a></p>
+</div>
+<div class="vendor-image">
+<a href="/samsung/one-ui-4.0-january-2022/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/320/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/laptop_1f4bb.png 2x" alt="Laptop on Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/samsung/one-ui-1.0/">One UI 1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/samsung/one-ui-1.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/161/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/161/personal-computer_1f4bb.png 2x" alt="Laptop on Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/samsung/experience-9.0/">Experience 9.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/samsung/experience-9.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/128/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/128/personal-computer_1f4bb.png 2x" alt="Laptop on Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/samsung/touchwiz-7.1/">TouchWiz 7.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/samsung/touchwiz-7.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/78/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/78/personal-computer_1f4bb.png 2x" alt="Laptop on Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/samsung/touchwiz-7.0/">TouchWiz 7.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/samsung/touchwiz-7.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/75/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/75/personal-computer_1f4bb.png 2x" alt="Laptop on Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/samsung/touchwiz-5.1/">TouchWiz 5.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/samsung/touchwiz-5.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/46/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/46/personal-computer_1f4bb.png 2x" alt="Laptop on Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/samsung/touchwiz-2.0/">TouchWiz Nature UX 2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/samsung/touchwiz-2.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/45/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/45/personal-computer_1f4bb.png 2x" alt="Laptop on Samsung " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/microsoft/">Microsoft</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/310/laptop_1f4bb.png 2x" alt="Laptop on Microsoft Windows 11 November 2021 Update" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/microsoft/windows-11-november-2021-update/">Windows 11 November 2021 Update</a></p>
+</div>
+<div class="vendor-image">
+<a href="/microsoft/windows-11-november-2021-update/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/310/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/laptop_1f4bb.png 2x" alt="Laptop on Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/microsoft/windows-10-october-2018-update/">Windows 10 October 2018 Update</a></p>
+</div>
+<div class="vendor-image">
+<a href="/microsoft/windows-10-october-2018-update/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/153/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/153/personal-computer_1f4bb.png 2x" alt="Laptop on Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/microsoft/windows-10-anniversary-update/">Windows 10 Anniversary Update</a></p>
+</div>
+<div class="vendor-image">
+<a href="/microsoft/windows-10-anniversary-update/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/74/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/74/personal-computer_1f4bb.png 2x" alt="Laptop on Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/microsoft/windows-10/">Windows 10</a></p>
+</div>
+<div class="vendor-image">
+<a href="/microsoft/windows-10/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/54/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/54/personal-computer_1f4bb.png 2x" alt="Laptop on Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/microsoft/windows-8.1/">Windows 8.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/microsoft/windows-8.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/17/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/17/personal-computer_1f4bb.png 2x" alt="Laptop on Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/microsoft/windows-8.0/">Windows 8.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/microsoft/windows-8.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/microsoft/58/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/58/personal-computer_1f4bb.png 2x" alt="Laptop on Microsoft " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/whatsapp/">WhatsApp</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/314/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/314/laptop_1f4bb.png 2x" alt="Laptop on WhatsApp 2.21.23.23" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/whatsapp/2.21.23.23/">2.21.23.23</a></p>
+</div>
+<div class="vendor-image">
+<a href="/whatsapp/2.21.23.23/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/314/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/314/laptop_1f4bb.png 2x" alt="Laptop on WhatsApp " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/whatsapp/2.19.7/">2.19.7</a></p>
+</div>
+<div class="vendor-image">
+<a href="/whatsapp/2.19.7/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/160/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/160/personal-computer_1f4bb.png 2x" alt="Laptop on WhatsApp " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/whatsapp/2.17/">2.17</a></p>
+</div>
+<div class="vendor-image">
+<a href="/whatsapp/2.17/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/116/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/116/personal-computer_1f4bb.png 2x" alt="Laptop on WhatsApp " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/twitter/">Twitter</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/322/laptop_1f4bb.png 2x" alt="Laptop on Twitter Twemoji 14.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/twitter/twemoji-14.0/">Twemoji 14.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/twitter/twemoji-14.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/322/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/laptop_1f4bb.png 2x" alt="Laptop on Twitter " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/twitter/twemoji-1.0/">Twemoji 1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/twitter/twemoji-1.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/31/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/31/personal-computer_1f4bb.png 2x" alt="Laptop on Twitter " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/facebook/">Facebook</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/304/laptop_1f4bb.png 2x" alt="Laptop on Facebook 13.1" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/facebook/13.1/">13.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/facebook/13.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/304/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/laptop_1f4bb.png 2x" alt="Laptop on Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/facebook/3.0/">3.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/facebook/3.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/158/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/158/personal-computer_1f4bb.png 2x" alt="Laptop on Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/facebook/2.0/">2.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/facebook/2.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/92/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/92/personal-computer_1f4bb.png 2x" alt="Laptop on Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/facebook/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/facebook/1.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/11/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/11/personal-computer_1f4bb.png 2x" alt="Laptop on Facebook " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/skype/">Skype</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png 2x" alt="Laptop on Skype Emoticons 1.2" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/skype/1.2/">Emoticons 1.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/skype/1.2/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png 2x" alt="Laptop on Skype " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/joypixels/">JoyPixels</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/291/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/joypixels/291/laptop_1f4bb.png 2x" alt="Laptop on JoyPixels 6.6" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/6.6/">6.6</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/6.6/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/joypixels/291/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/291/laptop_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/6.0/">6.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/6.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/joypixels/257/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/257/laptop_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/5.5/">5.5</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/5.5/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/joypixels/239/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/239/laptop_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/5.0/">5.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/5.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojione/211/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojione/211/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/4.5/">4.5</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/4.5/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojione/178/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojione/178/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/4.0/">4.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/4.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojione/151/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojione/151/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/3.1/">3.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/3.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/104/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/104/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/3.0/">3.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/3.0/laptop/">
+ <img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/98/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/98/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/2.2/">2.2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/2.2/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/64/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/64/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/2.0/">2.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/2.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/44/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/44/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/joypixels/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/joypixels/1.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emoji-one/5/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emoji-one/5/personal-computer_1f4bb.png 2x" alt="Laptop on JoyPixels " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/openmoji/">OpenMoji</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/openmoji/292/laptop_1f4bb.png 2x" alt="Laptop on OpenMoji 13.1" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/openmoji/13.1/">13.1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/openmoji/13.1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/openmoji/292/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/laptop_1f4bb.png 2x" alt="Laptop on OpenMoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/openmoji/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/openmoji/1.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/openmoji/212/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/212/personal-computer_1f4bb.png 2x" alt="Laptop on OpenMoji " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/emojidex/">emojidex</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/personal-computer_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/emojidex/112/personal-computer_1f4bb.png 2x" alt="Laptop on emojidex 1.0.34" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/emojidex/1.0.34/">1.0.34</a></p>
+</div>
+<div class="vendor-image">
+<a href="/emojidex/1.0.34/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojidex/112/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/personal-computer_1f4bb.png 2x" alt="Laptop on emojidex " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/emojidex/1.0.33/">1.0.33</a></p>
+</div>
+<div class="vendor-image">
+<a href="/emojidex/1.0.33/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojidex/107/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/107/personal-computer_1f4bb.png 2x" alt="Laptop on emojidex " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/emojidex/1.0.14/">1.0.14</a></p>
+</div>
+<div class="vendor-image">
+<a href="/emojidex/1.0.14/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/emojidex/59/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/59/personal-computer_1f4bb.png 2x" alt="Laptop on emojidex " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/messenger/">Messenger</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/personal-computer_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/65/personal-computer_1f4bb.png 2x" alt="Laptop on Messenger 1.0" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/messenger/1.0/">1.0</a></p>
+</div>
+<div class="vendor-image">
+<a href="/messenger/1.0/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/facebook/65/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/personal-computer_1f4bb.png 2x" alt="Laptop on Messenger " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/lg/">LG</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/307/laptop_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/lg/307/laptop_1f4bb.png 2x" alt="Laptop on LG Velvet" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/lg/velvet/">Velvet</a></p>
+</div>
+<div class="vendor-image">
+<a href="/lg/velvet/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/lg/307/laptop_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/307/laptop_1f4bb.png 2x" alt="Laptop on LG " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/lg/g3/">G3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/lg/g3/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/lg/34/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/34/personal-computer_1f4bb.png 2x" alt="Laptop on LG " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/htc/">HTC</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/htc/37/personal-computer_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/htc/37/personal-computer_1f4bb.png 2x" alt="Laptop on HTC Sense 7" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/htc/sense-7/">Sense 7</a></p>
+</div>
+<div class="vendor-image">
+<a href="/htc/sense-7/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/htc/37/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/htc/37/personal-computer_1f4bb.png 2x" alt="Laptop on HTC " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/mozilla/">Mozilla</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/mozilla/36/personal-computer_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/mozilla/36/personal-computer_1f4bb.png 2x" alt="Laptop on Mozilla Firefox OS 2.5" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/mozilla/firefox-os-2.5/">Firefox OS 2.5</a></p>
+</div>
+<div class="vendor-image">
+<a href="/mozilla/firefox-os-2.5/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/mozilla/36/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/mozilla/36/personal-computer_1f4bb.png 2x" alt="Laptop on Mozilla " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/softbank/">SoftBank</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/145/personal-computer_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/softbank/145/personal-computer_1f4bb.png 2x" alt="Laptop on SoftBank 2014" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/2014/">2014</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/2014/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/145/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/145/personal-computer_1f4bb.png 2x" alt="Laptop on SoftBank " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/2006/">2006</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/2006/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/175/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/175/personal-computer_1f4bb.gif 2x" alt="Laptop on SoftBank " width="48" height="48">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/2004/">2004</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/2004/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/173/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/173/personal-computer_1f4bb.gif 2x" alt="Laptop on SoftBank " width="48" height="48">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/2001/">2001</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/2001/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/172/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/172/personal-computer_1f4bb.gif 2x" alt="Laptop on SoftBank " width="30" height="30">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/2000/">2000</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/2000/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/171/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/171/personal-computer_1f4bb.gif 2x" alt="Laptop on SoftBank " width="22" height="22">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/1999/">1999</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/1999/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/170/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/170/personal-computer_1f4bb.gif 2x" alt="Laptop on SoftBank " width="22" height="22">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/1998/">1998</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/1998/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/183/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/183/personal-computer_1f4bb.gif 2x" alt="Laptop on SoftBank " width="24" height="24">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/softbank/1997/">1997</a></p>
+</div>
+<div class="vendor-image">
+<a href="/softbank/1997/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/softbank/182/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/softbank/182/personal-computer_1f4bb.gif 2x" alt="Laptop on SoftBank " width="32" height="32">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/docomo/">Docomo</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/personal-computer_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/docomo/205/personal-computer_1f4bb.png 2x" alt="Laptop on Docomo 2013" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/docomo/2013/">2013</a></p>
+</div>
+<div class="vendor-image">
+<a href="/docomo/2013/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/docomo/205/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/personal-computer_1f4bb.png 2x" alt="Laptop on Docomo " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/docomo/2002/">2002</a></p>
+</div>
+<div class="vendor-image">
+<a href="/docomo/2002/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/docomo/204/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/204/personal-computer_1f4bb.gif 2x" alt="Laptop on Docomo " width="54" height="54">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="vendor-container vendor-rollout-target">
+<div class="vendor-info">
+<h2><a href="/au-kddi/">au by KDDI</a></h2>
+</div>
+<div class="vendor-image">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/190/personal-computer_1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/au-kddi/190/personal-computer_1f4bb.png 2x" alt="Laptop on au by KDDI Type F" width="120" height="120">
+</div>
+</div>
+<div class="vendor-rollout-container">
+<ul class="vendor-rollout">
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/au-kddi/type-f/">Type F</a></p>
+</div>
+<div class="vendor-image">
+<a href="/au-kddi/type-f/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/190/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/190/personal-computer_1f4bb.png 2x" alt="Laptop on au by KDDI " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/au-kddi/type-d-3/">Type D-3</a></p>
+</div>
+<div class="vendor-image">
+<a href="/au-kddi/type-d-3/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/194/personal-computer_1f4bb.png" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/194/personal-computer_1f4bb.png 2x" alt="Laptop on au by KDDI " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+ <li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/au-kddi/type-d-2/">Type D-2</a></p>
+</div>
+<div class="vendor-image">
+<a href="/au-kddi/type-d-2/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/196/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/196/personal-computer_1f4bb.gif 2x" alt="Laptop on au by KDDI " width="60" height="60">
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="vendor-container">
+<div class="vendor-info">
+<p class="version-name"><a href="/au-kddi/type-d-1/">Type D-1</a></p>
+</div>
+<div class="vendor-image">
+<a href="/au-kddi/type-d-1/laptop/">
+<img class="vendor-rollout-lazy" src="/static/img/lazy.svg" data-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/au-kddi/192/personal-computer_1f4bb.gif" data-srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/au-kddi/192/personal-computer_1f4bb.gif 2x" alt="Laptop on au by KDDI " width="42" height="45">
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</section>
+<div class="ad ad-below-images">
+</div>
+<h2>Codepoints</h2>
+<ul>
+<li><a href="/emoji/%F0%9F%92%BB/">💻 U+1F4BB</a></li>
+</ul>
+<h2>Shortcodes</h2>
+<ul class="shortcodes">
+<li><span class="shortcode">:computer:</span>
+(<a href="/github/">Github</a>, <a href="/slack/">Slack</a>)
+</li>
+<li><span class="shortcode">:laptop:</span>
+(<a href="/shortcodes/">Emojipedia</a>)
+</li>
+</ul>
+<h2>See also</h2>
+<ul class="emoji-list">
+<li><a href="/busts-in-silhouette/"><span class="emoji">👥</span> Busts in Silhouette</a></li>
+<li><a href="/card-index/"><span class="emoji">📇</span> Card Index</a></li>
+<li><a href="/clamp/"><span class="emoji">🗜️</span> Clamp</a></li>
+<li><a href="/dvd/"><span class="emoji">📀</span> DVD</a></li>
+<li><a href="/desktop-computer/"><span class="emoji">🖥️</span> Desktop Computer</a></li>
+<li><a href="/e-mail/"><span class="emoji">📧</span> E-Mail</a></li>
+<li><a href="/electric-plug/"><span class="emoji">🔌</span> Electric Plug</a></li>
+<li><a href="/file-cabinet/"><span class="emoji">🗄️</span> File Cabinet</a></li>
+<li><a href="/file-folder/"><span class="emoji">📁</span> File Folder</a></li>
+<li><a href="/floppy-disk/"><span class="emoji">💾</span> Floppy Disk</a></li>
+<li><a href="/globe-with-meridians/"><span class="emoji">🌐</span> Globe with Meridians</a></li>
+<li><a href="/hacker-cat/"><span class="emoji">🐱‍💻</span> Hacker Cat</a></li>
+<li><a href="/hammer-and-wrench/"><span class="emoji">🛠️</span> Hammer and Wrench</a></li>
+<li><a href="/joystick/"><span class="emoji">🕹️</span> Joystick</a></li>
+<li><a href="/keyboard/"><span class="emoji">⌨️</span> Keyboard</a></li>
+<li><a href="/link/"><span class="emoji">🔗</span> Link</a></li>
+<li><a href="/man-technologist/"><span class="emoji">👨‍💻</span> Man Technologist</a></li>
+<li><a href="/computer-disk/"><span class="emoji">💽</span> Computer Disk</a></li>
+<li><a href="/mobile-phone/"><span class="emoji">📱</span> Mobile Phone</a></li>
+<li><a href="/mobile-phone-with-arrow/"><span class="emoji">📲</span> Mobile Phone with Arrow</a></li>
+<li><a href="/nerd-face/"><span class="emoji">🤓</span> Nerd Face</a></li>
+<li><a href="/open-file-folder/"><span class="emoji">📂</span> Open File Folder</a></li>
+<li><a href="/optical-disk/"><span class="emoji">💿</span> Optical Disk</a></li>
+<li><a href="/page-facing-up/"><span class="emoji">📄</span> Page Facing Up</a></li>
+<li><a href="/page-with-curl/"><span class="emoji">📃</span> Page with Curl</a></li>
+<li><a href="/printer/"><span class="emoji">🖨️</span> Printer</a></li>
+<li><a href="/magnifying-glass-tilted-right/"><span class="emoji">🔎</span> Magnifying Glass Tilted Right</a></li>
+<li><a href="/satellite-antenna/"><span class="emoji">📡</span> Satellite Antenna</a></li>
+<li><a href="/speech-balloon/"><span class="emoji">💬</span> Speech Balloon</a></li>
+<li><a href="/television/"><span class="emoji">📺</span> Television</a></li>
+<li><a href="/computer-mouse/"><span class="emoji">🖱️</span> Computer Mouse</a></li>
+<li><a href="/trackball/"><span class="emoji">🖲️</span> Trackball</a></li>
+<li><a href="/woman-technologist/"><span class="emoji">👩‍💻</span> Woman Technologist</a></li>
+</ul>
+<div data-trend></div>
+<h2>Browse</h2>
+<ul>
+<li><a href="https://instagram.com/explore/tags/%F0%9F%92%BB/"><span class="emoji">💻</span> on Instagram</a></li>
+<li><a href="https://twitter.com/search?q=%F0%9F%92%BB"><span class="emoji">💻</span> on Twitter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/%F0%9F%92%BB"><span class="emoji">💻</span> on Wikipedia</a></li>
+<li><a href="http://www.yelp.com/search?find_desc=%F0%9F%92%BB"><span class="emoji">💻</span> on Yelp</a></li>
+<li><a href="https://www.youtube.com/results?search_query=%F0%9F%92%BB"><span class="emoji">💻</span> on YouTube</a></li>
+<li><a href="https://trends.google.com/trends/explore?q=%F0%9F%92%BB"><span class="emoji">💻</span> on Google Trends</a></li>
+<li><a href="https://nomadlist.com/search/%F0%9F%92%BB"><span class="emoji">💻</span> on Nomad List</a></li>
+</ul>
+<h2>Proposals</h2>
+<ul class="emoji-list">
+<li><span class="emoji">💻</span> Laptop Emoji Proposal:
+<a href="https://www.unicode.org/cgi-bin/GetDocumentLink?L2/07-257" target="_blank">L2/07-257</a>,
+<a href="https://www.unicode.org/cgi-bin/GetDocumentLink?L2/09-026" target="_blank">L2/09-026</a>
+</li>
+</ul>
+<h2>More</h2>
+<ul class="emoji-list">
+<li><a href="/random/"><span class="emoji">🔀</span> Surprise me <span class="emoji">🧙‍♀️</span> <span class="emoji">🎰</span> <span class="emoji">🎱</span> <span class="emoji">🎲</span> <span class="emoji">🔮</span> <span class="emoji">✨</span></a></li>
+</ul>
+<form class="short-link stacked">
+<input type="text" value="http://📙.la/💻" readonly>
+</form>
+</article>
+<div class="ad-footer">
+<center>
+<div id='div-gpt-ad-1643625933316-0' style='min-width: 320px; min-height: 50px;'></div>
+<script>
+  adSlots['div-gpt-ad-1643625933316-0'] = null;
+</script></center>
+</div>
+</div>
+<div class="sidebar">
+<div class="block">
+<h2>Categories</h2>
+<ul>
+<li><a href="/people/"><span class="emoji">😃</span> Smileys & People</a></li>
+<li><a href="/nature/"><span class="emoji">🐻</span> Animals & Nature</a></li>
+<li><a href="/food-drink/"><span class="emoji">🍔</span> Food & Drink</a></li>
+<li><a href="/activity/"><span class="emoji">⚽</span> Activity</a></li>
+<li><a href="/travel-places/"><span class="emoji">🌇</span> Travel & Places</a></li>
+<li><a href="/objects/"><span class="emoji">💡</span> Objects</a></li>
+<li><a href="/symbols/"><span class="emoji">🔣</span> Symbols</a></li>
+<li><a href="/flags/"><span class="emoji">🎌</span> Flags</a></li>
+</ul>
+</div>
+<div class="ad-sidebar ad-sidebar-1 block">
+
+<div id='div-gpt-ad-1636982387411-0' style='min-width: 300px; min-height: 250px;'>
+<script>
+    adSlots['div-gpt-ad-1636982387411-0'] = null;
+  </script>
+</div>
+</div>
+<div class="block">
+<h2>Most Popular</h2>
+<ul>
+<li><a href="/red-heart/"><span class="emoji">❤️</span> Red Heart</a></li>
+<li><a href="/sparkles/"><span class="emoji">✨</span> Sparkles</a></li>
+<li><a href="/heart-hands/"><span class="emoji">🫶</span> Heart Hands</a></li>
+<li><a href="/fire/"><span class="emoji">🔥</span> Fire</a></li>
+<li><a href="/smiling-face-with-smiling-eyes/"><span class="emoji">😊</span> Smiling Face with Smiling Eyes</a></li>
+<li><a href="/melting-face/"><span class="emoji">🫠</span> Melting Face</a></li>
+<li><a href="/face-with-tears-of-joy/"><span class="emoji">😂</span> Face with Tears of Joy</a></li>
+<li><a href="/check-mark/"><span class="emoji">✔️</span> Check Mark</a></li>
+<li><a href="/skull/"><span class="emoji">💀</span> Skull</a></li>
+</ul>
+</div>
+<div class="block">
+<h2>Latest News</h2>
+<ul>
+<li><a href="https://blog.emojipedia.org/propose-a-new-emoji-but-no-more-flags/"><span class="emoji">🏳️</span> Propose A New Emoji, But No More Flags</a></li>
+<li><a href="https://blog.emojipedia.org/ios-15-4-emoji-changelog/"><span class="emoji">📲</span> iOS 15.4 Emoji Changelog</a></li>
+<li><a href="https://blog.emojipedia.org/twemoji-14-0-emoji-changelog/"><span class="emoji">🤝</span> Twemoji 14.0 Emoji Changelog</a></li>
+<li><a href="https://blog.emojipedia.org/twemoji-13-1-1-emoji-changelog/"><span class="emoji">🔋</span> Twemoji 13.1.1 Emoji Changelog</a></li>
+<li><a href="https://blog.emojipedia.org/samsungs-shiny-new-sparkles-emoji/"><span class="emoji">✨</span> Samsung&#39;s Shiny New Sparkles Emoji</a></li>
+<li><a href="https://blog.emojipedia.org/tears-of-joy-just-about-returns-as-twitters-top-emoji/"><span class="emoji">😂</span> Tears of Joy (Just About) Returns as Twitter&#39;s Top Emoji</a></li>
+<li><a href="https://blog.emojipedia.org/year-of-the-tiger-emojis-roar-into-life/"><span class="emoji">🐯</span> Year of the Tiger Emojis Roar into Life</a></li>
+<li><a href="https://blog.emojipedia.org/first-look-new-emojis-in-ios-15-4/"><span class="emoji">🍎</span> First Look: New Emojis in iOS 15.4</a></li>
+</ul>
+</div>
+<div class="ad-sidebar ad-sidebar-2 block">
+
+<div id='div-gpt-ad-1636988838539-0' style='min-width: 300px; min-height: 250px;'>
+<script>
+    adSlots['div-gpt-ad-1636988838539-0'] = null;
+  </script>
+</div>
+</div>
+<div class="block">
+<h2>Events</h2>
+<ul>
+<li><a href="/australia-day/"><span class="emoji">🇦🇺</span> Australia Day</a></li>
+<li><a href="/bastille-day/"><span class="emoji">🇫🇷</span> Bastille Day</a></li>
+<li><a href="/birthday/"><span class="emoji">🎂</span> Birthday</a></li>
+<li><a href="/black-friday/"><span class="emoji">🛍️</span> Black Friday</a></li>
+<li><a href="/black-lives-matter/"><span class="emoji">✊🏿</span> Black Lives Matter</a></li>
+<li><a href="/canada-day/"><span class="emoji">🇨🇦</span> Canada Day</a></li>
+<li><a href="/carnaval/"><span class="emoji">🇧🇷</span> Carnaval</a></li>
+<li><a href="/chinese-new-year/"><span class="emoji">🐉</span> Chinese New Year</a></li>
+<li><a href="/christmas/"><span class="emoji">🎅</span> Christmas</a></li>
+<li><a href="/cinco-de-mayo/"><span class="emoji">🇲🇽</span> Cinco de Mayo</a></li>
+<li><a href="/coronavirus/"><span class="emoji">🦠</span> Coronavirus</a></li>
+<li><a href="/diwali/"><span class="emoji">🪔</span> Diwali</a></li>
+<li><a href="/dragon-boat-festival/"><span class="emoji">🇨🇳</span> Dragon Boat Festival</a></li>
+<li><a href="/earth-day/"><span class="emoji">🌱</span> Earth Day</a></li>
+<li><a href="/easter/"><span class="emoji">🐰</span> Easter</a></li>
+<li><a href="/emoji-movie/"><span class="emoji">🎥</span> Emoji Movie</a></li>
+<li><a href="/fall-autumn/"><span class="emoji">🍂</span> Fall / Autumn</a></li>
+<li><a href="/fathers-day/"><span class="emoji">👨</span> Father’s Day</a></li>
+<li><a href="/festivus/"><span class="emoji">💪</span> Festivus</a></li>
+<li><a href="/420/"><span class="emoji">🌿</span> Four Twenty / 420</a></li>
+<li><a href="/graduation/"><span class="emoji">🎓</span> Graduation</a></li>
+<li><a href="/guy-fawkes/"><span class="emoji">🔥</span> Guy Fawkes</a></li>
+<li><a href="/halloween/"><span class="emoji">🎃</span> Halloween</a></li>
+<li><a href="/hanukkah/"><span class="emoji">🕎</span> Hanukkah</a></li>
+<li><a href="/hearts/"><span class="emoji">💕</span> Hearts</a></li>
+<li><a href="/holi/"><span class="emoji">🕉️</span> Holi</a></li>
+<li><a href="/independence-day/"><span class="emoji">🇺🇸</span> Independence Day</a></li>
+<li><a href="/international-womens-day/"><span class="emoji">♀️</span> International Women's Day</a></li>
+<li><a href="/pride/"><span class="emoji">🏳️‍🌈</span> LGBT Pride</a></li>
+<li><a href="/mothers-day/"><span class="emoji">🤱</span> Mother’s Day</a></li>
+<li><a href="/new-years-eve/"><span class="emoji">🎊</span> New Year’s Eve</a></li>
+<li><a href="/nsfw/"><span class="emoji">🔞</span> NSFW</a></li>
+<li><a href="/olympics/"><span class="emoji">🏊</span> Olympics</a></li>
+<li><a href="/purim/"><span class="emoji">🎭</span> Purim</a></li>
+<li><a href="/queens-birthday/"><span class="emoji">👑</span> Queen’s Birthday</a></li>
+<li><a href="/ramadan/"><span class="emoji">☪️</span> Ramadan</a></li>
+<li><a href="/spring/"><span class="emoji">🌱</span> Spring</a></li>
+<li><a href="/st-patricks-day/"><span class="emoji">☘️</span> St Patrick’s Day</a></li>
+<li><a href="/summer/"><span class="emoji">☀️</span> Summer</a></li>
+<li><a href="/super-bowl/"><span class="emoji">🏈</span> Super Bowl</a></li>
+<li><a href="/thanksgiving/"><span class="emoji">🦃</span> Thanksgiving</a></li>
+<li><a href="/valentines-day/"><span class="emoji">💘</span> Valentine’s Day</a></li>
+<li><a href="/veterans-day/"><span class="emoji">🎖️</span> Veterans Day</a></li>
+<li><a href="/wedding-marriage/"><span class="emoji">👰</span> Wedding / Marriage</a></li>
+<li><a href="/winter/"><span class="emoji">⛄</span> Winter</a></li>
+<li><a href="/winter-olympics/"><span class="emoji">🎿</span> Winter Olympics</a></li>
+<li><a href="/working-from-home/"><span class="emoji">🏡</span> Working From Home</a></li>
+<li><a href="/world-cup/"><span class="emoji">⚽</span> World Cup</a></li>
+<li><a href="/world-emoji-day/"><span class="emoji">🌎</span> World Emoji Day</a></li>
+</ul>
+</div>
+<div class="ad-sidebar ad-sidebar-3 block">
+<center>
+
+<div id='div-gpt-ad-1636989131974-0' style='min-width: 300px; min-height: 600px;'>
+<script>
+    adSlots['div-gpt-ad-1636989131974-0'] = null;
+  </script>
+</div></center>
+</div>
+</div>
+</div>
+<footer class="page-footer">
+<nav>
+<div class="container">
+<div class="vendors">
+<h2>Platforms</h2>
+<ul>
+<li><a href="/apple/">Apple</a></li>
+<li><a href="/au-kddi/">au by KDDI</a></li>
+<li><a href="/clubhouse/">Clubhouse</a></li>
+<li><a href="/discord/">Discord</a></li>
+<li><a href="/docomo/">Docomo</a></li>
+<li><a href="/dropbox/">Dropbox</a></li>
+<li><a href="/emojidex/">emojidex</a></li>
+<li><a href="/emojipedia/">Emojipedia</a></li>
+<li><a href="/facebook/">Facebook</a></li>
+<li><a href="/github/">GitHub</a></li>
+<li><a href="/google/">Google</a></li>
+<li><a href="/htc/">HTC</a></li>
+<li><a href="/instagram/">Instagram</a></li>
+<li><a href="/joypixels/">JoyPixels</a></li>
+<li><a href="/lg/">LG</a></li>
+<li><a href="/linkedin/">LinkedIn</a></li>
+<li><a href="/messenger/">Messenger</a></li>
+<li><a href="/microsoft/">Microsoft</a></li>
+<li><a href="/mozilla/">Mozilla</a></li>
+<li><a href="/nintendo/">Nintendo</a></li>
+<li><a href="/openmoji/">OpenMoji</a></li>
+<li><a href="/roblox/">Roblox</a></li>
+<li><a href="/samsung/">Samsung</a></li>
+<li><a href="/sina-weibo/">Sina Weibo</a></li>
+ <li><a href="/skype/">Skype</a></li>
+<li><a href="/slack/">Slack</a></li>
+<li><a href="/snapchat/">Snapchat</a></li>
+<li><a href="/softbank/">SoftBank</a></li>
+<li><a href="/sony/">Sony Playstation</a></li>
+<li><a href="/telegram/">Telegram</a></li>
+<li><a href="/tiktok/">TikTok</a></li>
+<li><a href="/twitch/">Twitch</a></li>
+<li><a href="/twitter/">Twitter</a></li>
+<li><a href="/viber/">Viber</a></li>
+<li><a href="/vinsmart/">VinSmart</a></li>
+<li><a href="/vk/">VK</a></li>
+<li><a href="/wechat/">WeChat</a></li>
+<li><a href="/whatsapp/">WhatsApp</a></li>
+<li><a href="/yo-status/">Yo Status</a></li>
+<li><a href="/youtube/">YouTube</a></li>
+<li><a href="/zoom/">Zoom</a></li>
+</ul>
+</div>
+<div class="unicode-version">
+<h2>Emoji Versions</h2>
+<ul>
+<li><a href="/emoji-16.0/">Emoji 16.0</a></li>
+<li><a href="/emoji-15.0/">Emoji 15.0</a></li>
+<li><a href="/emoji-14.0/">Emoji 14.0</a></li>
+<li><a href="/emoji-13.1/">Emoji 13.1</a></li>
+<li><a href="/emoji-13.0/">Emoji 13.0</a></li>
+<li><a href="/emoji-12.1/">Emoji 12.1</a></li>
+<li><a href="/emoji-12.0/">Emoji 12.0</a></li>
+<li><a href="/emoji-11.0/">Emoji 11.0</a></li>
+<li><a href="/emoji-5.0/">Emoji 5.0</a></li>
+<li><a href="/emoji-4.0/">Emoji 4.0</a></li>
+<li><a href="/emoji-3.0/">Emoji 3.0</a></li>
+<li><a href="/emoji-2.0/">Emoji 2.0</a></li>
+<li><a href="/emoji-1.0/">Emoji 1.0</a></li>
+</ul>
+<h2>Unicode Versions</h2>
+<ul>
+<li><a href="/unicode-16.0/">Unicode 16.0</a></li>
+<li><a href="/unicode-15.0/">Unicode 15.0</a></li>
+<li><a href="/unicode-14.0/">Unicode 14.0</a></li>
+<li><a href="/unicode-13.0/">Unicode 13.0</a></li>
+<li><a href="/unicode-12.0/">Unicode 12.0</a></li>
+<li><a href="/unicode-11.0/">Unicode 11.0</a></li>
+<li><a href="/unicode-10.0/">Unicode 10.0</a></li>
+<li><a href="/unicode-9.0/">Unicode 9.0</a></li>
+<li><a href="/unicode-8.0/">Unicode 8.0</a></li>
+<li><a href="/unicode-7.0/">Unicode 7.0</a></li>
+<li><a href="/unicode-6.1/">Unicode 6.1</a></li>
+<li><a href="/unicode-6.0/">Unicode 6.0</a></li>
+<li><a href="/unicode-5.2/">Unicode 5.2</a></li>
+<li><a href="/unicode-5.1/">Unicode 5.1</a></li>
+<li><a href="/unicode-5.0/">Unicode 5.0</a></li>
+<li><a href="/unicode-4.1/">Unicode 4.1</a></li>
+<li><a href="/unicode-4.0/">Unicode 4.0</a></li>
+<li><a href="/unicode-3.2/">Unicode 3.2</a></li>
+<li><a href="/unicode-3.1/">Unicode 3.1</a></li>
+<li><a href="/unicode-3.0/">Unicode 3.0</a></li>
+<li><a href="/unicode-1.1/">Unicode 1.1</a></li>
+</ul>
+</div>
+<div class="static-pages">
+<h2>More</h2>
+<ul>
+<li><a href="/about/">About Emojipedia</a></li>
+<li><a href="/ads/">Ads</a></li>
+<li><a href="/animoji/">Animoji</a></li>
+<li><a href="/apple-watch/">Apple Watch</a></li>
+<li><a href="/botmoji/">Botmoji</a></li>
+<li><a href="/contact/">Contact</a></li>
+<li><a href="/emoji-flag-sequence/">Emoji Flag Sequence</a></li>
+<li><a href="/emoji-keycap-sequence/">Emoji Keycap Sequence</a></li>
+<li><a href="/emoji-kitchen/">Emoji Kitchen</a></li>
+<li><a href="/emojipedia-api/">Emojipedia API</a></li>
+<li><a href="/app/">Emojipedia App</a></li>
+<li><a href="/proposals/">Emoji Proposals</a></li>
+<li><a href="/requests/">Emoji Requests</a></li>
+<li><a href="/emoji-sequence/">Emoji Sequence</a></li>
+<li><a href="/shortcodes/">Emoji Shortcodes</a></li>
+<li><a href="/stats/">Emoji Statistics</a></li>
+<li><a href="/emoji-tag-sequence/">Emoji Tag Sequence</a></li>
+<li><a href="/emoji-wrap/">Emoji Wrap</a></li>
+<li><a href="/emoji-zwj-sequence/">Emoji ZWJ Sequence</a></li>
+<li><a href="/families/">Families</a></li>
+<li><a href="/faq/">FAQ</a></li>
+<li><a href="/neutral/">Gender Neutral Emojis</a></li>
+<li><a href="/glossary/">Glossary</a></li>
+<li><a href="/stickers/">iMessage Stickers</a></li>
+<li><a href="/licensing/">Licensing</a></li>
+<li><a href="/meanings/">Meanings</a></li>
+<li><a href="/memoji/">Memoji</a></li>
+<li><a href="/new/">New</a></li>
+<li><a href="/pets/">Pets</a></li>
+<li><a href="/press/">Press Information</a></li>
+<li><a href="/privacy-policy/">Privacy Policy</a></li>
+<li><a href="/tips/">Tips</a></li>
+<li><a href="/caniemoji/">Can I Emoji?</a></li>
+<li><a href="/ios-emoji-support/">iOS Emoji Support</a></li>
+<li><a href="/mac-emoji-support/">MacOS Emoji Support</a></li>
+<li><a href="/android-emoji-support/">Android Emoji Support</a></li>
+<li><a href="/chromebook-emoji-support/">Chromebook Emoji Support</a></li>
+<li><a href="/windows-emoji-support/">Windows Emoji Support</a></li>
+<li><a href="/emoji-modifier-sequence/">Emoji Modifier Sequence</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container content">
+<p>All emoji names&nbsp;are&nbsp;<a href="/faq/">official Unicode Character Database&nbsp;or CLDR names</a>.&nbsp;<a href="/emoji/" title="😃 Every Emoji by Codepoint">Code points</a>&nbsp;listed are part of the <a href="https://en.wikipedia.org/wiki/Unicode_Standard">Unicode Standard</a>. Additional emoji descriptions and definitions are copyright &copy; Emojipedia. Emoji images displayed on Emojipedia&nbsp;are copyright &copy; their respective creators, unless otherwise noted.</p>
+<p>Emojipedia&reg; is a <a href="http://unicode.org/consortium/members.html">voting member of the Unicode Consortium</a>.</p>
+<p>Emojipedia&reg; is a registered trademark of <a href="https://www.zedge.net">Zedge, Inc</a>;&nbsp;Apple&reg; is a registered trademark of Apple Inc; Microsoft&reg; and Windows&reg; are registered trademarks of Microsoft Corporation; Google&reg; and Android&trade; are registered trademarks or trademarks of Google Inc in the United States and/or other countries.</p>
+<p>Follow Emojipedia on <a href="https://twitter.com/emojipedia" rel="me">Twitter</a>, <a href="https://www.facebook.com/Emojipedia/" rel="me">Facebook</a>, <a href="https://www.instagram.com/emojipedia/" rel="me">Instagram</a>, or&nbsp;<a href="https://tiktok.com/@emojipediaofficial">TikTok</a>. View your <a class="optanon-show-settings" href="#">privacy settings here</a>.</p><script>
+  googletag.cmd.push(function() {
+    if (latestStaticSlot) {
+      googletag.display(latestStaticSlot);
+    } else if (anchorSlot) {
+      googletag.display(anchorSlot);
+    }
+  });
+</script>
+</div>
+</footer>
+<script type="text/javascript" src="/static/js/jquery.min.1171de55ad62.js" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/site.cc90b96205fb.js" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/lazy.f12b5efd22b1.js" charset="utf-8"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-43649623-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+</body>
+</html>
