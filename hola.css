@@ -5,7 +5,7 @@ body{
 	margin: 0;
 	box-sizing: border-box;
 	overflow: hidden;
-	background-color: #333333;
+	
 
 }
 
@@ -315,10 +315,31 @@ p{
 	width: 75%;
 	height: auto;
 	margin-top: 5px;
+}
 	
+footer{
+	display: flex;
+    flex-direction: row-reverse;
+	margin-top: 8px;
+	
+}
 
-}
-}
+
+.afip {
+
+	letter-spacing: 3px;
+    font-size: 1.10rem;
+    text-decoration: none;
+    padding: 4px;
+    margin-right: 10px;
+    border-radius: 10%;
+    color: #FFFFFF ;
+    background-color: #111111 ;
+    text-align:center;
+
+     }
+	
+  }
 
 @media only screen and (max-width: 800px) {
 	 
