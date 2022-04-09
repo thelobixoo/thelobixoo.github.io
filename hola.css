@@ -364,14 +364,14 @@ footer{
 	width: 100%;
     	border: none;
     	display: inline-block;
-    	height: 180vw;
+    	height: 150vw;
 
    }
     .date1{
     	width: 100%;
     	border: none;
     	display: block;
-    	height: 150vw;
+    	height: 90vw;
     	
     	
     	
@@ -422,7 +422,7 @@ footer{
    	position: relative;
    	width: 65%;
    	margin-left: auto;
-   	margin-top: -170px;
+   	margin-top: -92px;
 
    }
 
