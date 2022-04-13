@@ -325,19 +325,10 @@ footer{
 }
 
 
-.afip {
-
-	letter-spacing: 3px;
-    font-size: 1.10rem;
-    text-decoration: none;
-    padding: 4px;
-    margin-right: 10px;
-    border-radius: 10%;
-    color: #FFFFFF ;
-    background-color: #111111 ;
-    text-align:center;
-
-     }
+.data{
+	height: 45px;
+	margin-right: 10px;
+}
 	
   }
 
